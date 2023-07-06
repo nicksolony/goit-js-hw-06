@@ -1,0 +1,13 @@
+li {
+    list-style-type: none;
+    margin: 5px;
+}
+
+img {
+    max-width: 33vw;
+}
+
+ul.gallery {
+    display: flex;
+    justify-content: center;
+}
